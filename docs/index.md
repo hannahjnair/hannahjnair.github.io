@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: MAGGIE LOOK I did a successful push to my personal repository :D
 tags:
 - tag1
 - tag2
